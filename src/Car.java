@@ -24,17 +24,4 @@ public class Car {
 	public void repaintCar(String newColor) {
 		// TODO: set global variable for new color
 	}
-	
-	public static void main(String[] args) {
-		// TODO: create a new car object
-
-		// TODO: print out the number of doors on the car
-		
-		// TODO: print out the color of the car
-		
-		// TODO: paint the car a new color
-		
-		// TODO: print out the new color of the car
-	}
-
 }
